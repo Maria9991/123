@@ -1,0 +1,44 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+
+#testimonials1-c .mbr-section__header {
+  color: #201700;
+  font-size: 46px;
+  font-family: 'Montserrat', sans-serif;
+}
+#testimonials1-c .mbr-reviews__text P {
+  text-align: center;
+}
+#testimonials1-c .mbr-reviews__text {
+  text-align: center;
+  color: #ae2f2f;
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+#header4-7 SPAN {
+  color: #ffffff;
+}
+#header4-7 .btn {
+  font-size: 60px;
+}
+
+#content5-g .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #641f1f;
+}
+#content5-g .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-g .mbr-article {
+  color: #fff;
+}
+#content5-g .mbr-article P {
+  color: #390404;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+}
+#form1-f .mbr-header__text {
+  color: #f7e7c9;
+  font-size: 32px;
+}
